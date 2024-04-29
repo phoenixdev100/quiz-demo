@@ -19,13 +19,13 @@ This project is a demo quiz page created using HTML, CSS, and JavaScript. It pre
 - Download or clone the repository
 
 ```
-git clone https://github.com/phoenixdev100/demo-quiz.git
+git clone https://github.com/phoenixdev100/quiz-demo.git
 ```
 
 - Go to the directory
 
 ```
-cd demo-quiz
+cd quiz-demo
 ```
 
 - Run the index.html file and see the results
